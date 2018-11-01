@@ -1,0 +1,2 @@
+# android_mediacodec_rtsp_h264
+android MediaCodec硬解码实现RTSP协议H264格式视频流实时播放及SD卡中H264格式文件播放。
